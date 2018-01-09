@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding: 5px 0 5px 0;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+  padding: 25px;
+}
+
+nav {
+  background-color: teal;
+  padding: 10px;
+  text-align:center;
+}
+
+li {
+  background-color: tomato;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
+section {
+  background-color: chartreuse;
+  text-align: left;
+}
+
+div.box {
+  display: inline-block;
+  width: 30%;
+}
+
+div img {
+  width: 100%;
+}
+
+div p {
+  background-color: lightblue;
+  border: 5px;
+  padding: 5px;
+}
+
+p:first-letter {
+  color: darkblue;
+  font-size: 40px;
+}
